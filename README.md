@@ -67,4 +67,4 @@ To deliver a user-friendly, business-ready dashboard that:
 
 ## 📸 Screenshot
 
-![Sales & Profit Dashboard Preview](Sales and Profit Dashboard.png)
+![Sales & Profit Dashboard Preview](Sales_and_Profit_Dashboard.png)
